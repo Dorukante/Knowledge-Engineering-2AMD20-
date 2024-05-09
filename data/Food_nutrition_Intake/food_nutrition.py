@@ -1,77 +1,87 @@
 import pandas as pd
-pd.set_option('display.max_rows', None)
-pd.set_option('display.max_columns', None)
 
-# axulary method to read the excell files and returns a dataframe, up to desired rows
-def food_intake(xls, row_end):
+def read_excell(file, sheet, row_end):
+    # Read the Excel file
+    df = pd.read_excel(file, sheet_name=sheet)
 
-    data = pd.read_excel(xls)
+    # Limit the DataFrame to the specified number of rows
+    df = df.iloc[:row_end]
 
-    return data.iloc[0:row_end]
+    return df
+
+def group_foods(df):
+    food_groups = {}
+    current_group = None
+    for index, row in df.iterrows():
+        if (isinstance(row['Food group'], str) and 
+            any(char in row['Food group'] for char in ['(', ')'])):
+            current_group = row['Food group']
+            food_groups[current_group] = {}
+        elif current_group:
+            if isinstance(row['Food group'], str) and row['Food group'] not in ['Total population', 'Children', 'Adults']:
+                food_groups[current_group][row['Food group']] = row.drop('Food group').to_dict()
+    return food_groups
+
+def group_nutrients(df):
+    nutrient_groups = {}
+    current_group = None
+    for index, row in df.iterrows():
+        if (isinstance(row['Nutrient group'], str) and 
+            any(char in row['Nutrient group'] for char in ['(', ')'])):
+            current_group = row['Nutrient group']
+            nutrient_groups[current_group] = {}
+        elif current_group:
+            if isinstance(row['Nutrient group'], str) and row['Nutrient group'] not in ['Total population', 'Children', 'Adults']:
+                nutrient_groups[current_group][row['Nutrient group']] = row.drop('Nutrient group').to_dict()
+    return nutrient_groups
 
 # Average daily intake of food by food source and demographic characteristics 2007 - 2010
-daily_intake_2007_2010 = food_intake("archived_food_table1(2007-10).xls", 84)
+daily_intake_2007_2010 = group_foods(read_excell("archived_food_table1(2007-10).xls", "Daily intake by food source", 56))
 
 # Food density by food source and demographic characteristics 2007 - 2010
-food_density_2007_2010 = food_intake("archived_food_table2(2007-10).xls", 84)
+food_density_2007_2010 = group_foods(read_excell("archived_food_table2(2007-10).xls", "Food density", 56))
+
+def benchmark_calory_group(df):
+    # Convert DataFrame to dictionary
+    food_groups = {}
+    for index, row in df.iterrows():
+        food_group = row["Food group"]
+        food_groups[food_group] = dict(row.iloc[1:])
+
+    return food_groups
 
 # Benchmark food density recommended food intake per 1000 calorie intake 2007 - 2010
-calory_intake_2007_2010 = food_intake("archived_food_table3(2007-10).xls", 11)
+calory_intake_2007_2010 = benchmark_calory_group(read_excell("archived_food_table3(2007-10).xls", "Benchmark food density", 11))
 
-# Average daily intake of food by food source and demographic characteristics 2015 - 2016 & 2017 - 2018
-daily_intake_2015_2018 = food_intake("food_table1.xlsx", 112)
+# Average daily intake of nutrients by food source and demographic characteristics, 2007-10
+daily_nutrient_intake_2007_2010 = group_nutrients(read_excell("archived_nutrient_table1(2007-10).xls", "Daily intake", 32))
 
-# Food density by food source and demographic characteristics 2015 - 2016 & 2017 - 2018
-food_density_2015_2018 = food_intake("food_table1.xlsx", 112)
+# Nutrient density by food source and demographic characteristics, 2007-10
+nutrient_density_2007_2010 = group_nutrients(read_excell("archived_nutrient_table2(2007-10).xls", "Nutrient density", 28))
 
-# Benchmark food density recommended food intake per 1000 calorie intake 2015 - 2016 & 2017 - 2018
-calory_intake_2015_2018 = food_intake("food_table3.xlsx", 10)
+# Average daily intake of food by food source and demographic characteristics 2015 - 2016
+daily_intake_2015_2016 = group_foods(read_excell("food_table1.xlsx", "2015 2016", 56))
 
-# since the dataframes daily intake 2015 2018, food density 2015 2018 have 2 different year values 
-# (i.e 2015 - 2016 & 2017-2018), we will split them into 2 parts
+# Average daily intake of food by food source and demographic characteristics 2017 - 2018
+daily_intake_2017_2018 = group_foods(read_excell("food_table1.xlsx", "2017 2018", 56))
 
-# Split the DataFrame into two parts
-def split(dataframe):
+# Food density by food source and demographic characteristics 2015 - 2016
+food_density_2015_2016 = group_foods(read_excell("food_table1.xlsx", "2015 2016", 56))
 
-    # Calculate the index to split the columns
-    split_index = (len(dataframe.columns) - 1) // 2  # Subtract 1 to exclude the first columns from splitting
-
-    # Split the DataFrame into two parts
-    df1 = dataframe[['Food group'] + list(dataframe.columns[1:split_index + 1])]
-    df2 = dataframe[['Food group'] + list(dataframe.columns[split_index + 1:])]
-
-    return df1,df2
-
-# Average daily intake of food by food source and demographic characteristics 2015 - 2016 
-daily_intake_2015_2016 = split(daily_intake_2015_2018)[0]
-# Average daily intake of food by food source and demographic characteristics 2017 - 2018 
-daily_intake_2017_2018 = split(daily_intake_2015_2018)[1]
-
-# Food density by food source and demographic characteristics 2015 - 2016 
-food_density_2015_2016 = split(food_density_2015_2018)[0]
 # Food density by food source and demographic characteristics 2017 - 2018
-food_density_2017_2018 = split(food_density_2015_2018)[1]
+food_density_2017_2018 = group_foods(read_excell("food_table2.xlsx", "2017 2018", 56))
 
-# this method computes the average values for 2015_2016 & 2017_2018 datas
-def average_2015_2018(df1, df2):
-    combined_df = pd.DataFrame()
-    combined_df['Food group'] = df1['Food group']  # Initialize 'Food group' column with values from df1
+# Benchmark food density recommended food intake per 1000 calorie intake 2015 - 2016 & 2017-2018
+calory_intake_2015_2018 = benchmark_calory_group(read_excell("food_table3.xlsx", "benchmark out", 10))
 
-    # Iterate over the column indices of food_density_2015_2016, food_density_2017_2018, (excluding the first column which is 'Food group')
-    for i in range(1, len(df1.columns)):
-        for j in range(1, len(df2.columns)):
-                if i ==j:
-                    # Calculate the average of corresponding columns from df1, df2, and df3
-                    avg_values = (df1.iloc[:, i] + df2.iloc[:, j]) /2
-                    # If value exists in df1, use it, else use the average
-                    combined_df[f'avg_{df1.columns[i]}'] = df1.iloc[:, i].combine_first(avg_values)
+# Average daily intake of nutrients by food source and demographic characteristics, 2015-2016
+daily_nutrient_intake_2015_2016 = group_nutrients(read_excell("nutrient_table1.xlsx", "2015 2016", 32))
 
-    return combined_df
+# Average daily intake of nutrients by food source and demographic characteristics, 2017-2018
+daily_nutrient_intake_2017_2018 = group_nutrients(read_excell("nutrient_table1.xlsx", "2017 2018", 32))
 
-daily_intake_average_2015_2018 = average_2015_2018(daily_intake_2015_2016,daily_intake_2017_2018)
+# Nutrient density by food source and demographic characteristics, 2015-2016
+nutrient_density_2015_2016 = group_nutrients(read_excell("nutrient_table2.xlsx", "2015 2016", 28))
 
-final_daily_intake = pd.concat([daily_intake_average_2015_2018, daily_intake_2007_2010])
-
-food_density_average_2015_2018 = average_2015_2018(food_density_2015_2016,food_density_2017_2018)
-
-final_food_density_intake = pd.concat([food_density_2007_2010, food_density_average_2015_2018])
+# Nutrient density by food source and demographic characteristics, 2017-2018
+nutrient_density_2017_2018 = group_nutrients(read_excell("nutrient_table2.xlsx", "2017 2018", 28))
