@@ -1,0 +1,137 @@
+﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quatity,subsitude_food_id,substitude_food_name,substitude_food_quantity
+"""428""","""Mushrooms Oriental""","""638""",""" chicken broth """,15,"""1014""",""" dehydrated onion soup mix """,15
+"""428""","""Mushrooms Oriental""","""638""",""" chicken broth """,15,"""1194""",""" envelope onion soup mix """,18
+"""428""","""Mushrooms Oriental""","""638""",""" chicken broth """,15,"""4108""",""" cond. onion soup """,19
+"""429""","""Chinese Broccoli and Almonds""","""638""",""" chicken broth """,90,"""3865""",""" onion soup mix """,73
+"""445""","""Provencale Tomato and Potato Soup""","""638""",""" chicken broth """,120,"""4091""",""" cond. black bean soup """,90
+"""458""","""Fast Pea Soup""","""2127""",""" low-fat reduced sodium chicken broth """,120,"""1014""",""" dehydrated onion soup mix """,95
+"""458""","""Fast Pea Soup""","""2127""",""" low-fat reduced sodium chicken broth """,120,"""1194""",""" envelope onion soup mix """,113.96457219251336
+"""458""","""Fast Pea Soup""","""2127""",""" low-fat reduced sodium chicken broth """,120,"""4108""",""" cond. onion soup """,119.05796089385476
+"""458""","""Fast Pea Soup""","""2127""",""" low-fat reduced sodium chicken broth """,120,"""4111""",""" cond. green pea soup """,130.34480122324157
+"""478""","""Cream of Broccoli Soup""","""483""",""" canned low sodium chicken broth """,76.125,"""1014""",""" dehydrated onion soup mix """,85.87290502793296
+"""478""","""Cream of Broccoli Soup""","""483""",""" canned low sodium chicken broth """,76.125,"""3865""",""" onion soup mix """,53.74562937062936
+"""500""","""Tomato Pilaf""","""166""",""" beef broth """,90,"""1194""",""" envelope onion soup mix """,74.48696524064171
+"""500""","""Tomato Pilaf""","""166""",""" beef broth """,90,"""4091""",""" cond. black bean soup """,109.24754901960785
+"""500""","""Tomato Pilaf""","""166""",""" beef broth """,90,"""4108""",""" cond. onion soup """,77.81599162011173
+"""500""","""Tomato Pilaf""","""166""",""" beef broth """,90,"""4111""",""" cond. green pea soup """,85.19304281345566
+"""520""","""Lamb Stew Provencal""","""166""",""" beef broth """,20,"""311""",""" bouillon cube """,23.24670658682635
+"""520""","""Lamb Stew Provencal""","""166""",""" beef broth """,20,"""346""",""" broth or low-sodium bouillon """,23.24670658682635
+"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320,"""1014""",""" dehydrated onion soup mix """,231.47970204841712
+"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320,"""1194""",""" envelope onion soup mix """,276.97103386809266
+"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320,"""4091""",""" cond. black bean soup """,406.22418300653595
+"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320,"""4108""",""" cond. onion soup """,289.3496275605214
+"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320,"""4111""",""" cond. green pea soup """,316.78032619775735
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""311""",""" bouillon cube """,73.72550898203593
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""346""",""" broth or low-sodium bouillon """,73.72550898203593
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""3865""",""" onion soup mix """,86.09902097902096
+"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160,"""311""",""" bouillon cube """,153.77195608782435
+"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160,"""346""",""" broth or low-sodium bouillon """,153.77195608782435
+"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160,"""3865""",""" onion soup mix """,179.57983682983678
+"""586""","""Lima Beans and Ham""","""268""",""" boneless ham """,56.875,"""1103""",""" dried shrimp powder """,40.29765931372549
+"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4091""",""" cond. black bean soup """,238.7434803921569
+"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4108""",""" cond. onion soup """,170.05471368715087
+"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4111""",""" cond. green pea soup """,186.17610856269116
+"""647""","""Brown Rice and Lentil Stew""","""638""",""" chicken broth """,150,"""1014""",""" dehydrated onion soup mix """,127.17849162011176
+"""647""","""Brown Rice and Lentil Stew""","""638""",""" chicken broth """,150,"""1194""",""" envelope onion soup mix """,152.1721256684492
+"""647""","""Brown Rice and Lentil Stew""","""638""",""" chicken broth """,150,"""4108""",""" cond. onion soup """,158.9731145251397
+"""647""","""Brown Rice and Lentil Stew""","""638""",""" chicken broth """,150,"""4111""",""" cond. green pea soup """,174.04396024464833
+"""608""","""German Egg Noodle and Meatball Soup""","""638""",""" chicken broth """,240,"""1014""",""" dehydrated onion soup mix """,188.69622905027936
+"""608""","""German Egg Noodle and Meatball Soup""","""638""",""" chicken broth """,240,"""1194""",""" envelope onion soup mix """,225.77957887700535
+"""608""","""German Egg Noodle and Meatball Soup""","""638""",""" chicken broth """,240,"""4108""",""" cond. onion soup """,235.8702863128492
+"""608""","""German Egg Noodle and Meatball Soup""","""638""",""" chicken broth """,240,"""4111""",""" cond. green pea soup """,258.2310779816514
+"""608""","""German Egg Noodle and Meatball Soup""","""1701""",""" ground pork """,28.4375,"""1065""",""" dried frozen tofu """,26.296666666666663
+"""608""","""German Egg Noodle and Meatball Soup""","""1701""",""" ground pork """,28.4375,"""1102""",""" dried shrimp """,23.009583333333335
+"""608""","""German Egg Noodle and Meatball Soup""","""1701""",""" ground pork """,28.4375,"""1103""",""" dried shrimp powder """,27.070098039215686
+"""608""","""German Egg Noodle and Meatball Soup""","""1711""",""" ground veal """,28.4375,"""1065""",""" dried frozen tofu """,23.479999999999997
+"""608""","""German Egg Noodle and Meatball Soup""","""1711""",""" ground veal """,28.4375,"""1102""",""" dried shrimp """,20.544999999999998
+"""608""","""German Egg Noodle and Meatball Soup""","""1711""",""" ground veal """,28.4375,"""1103""",""" dried shrimp powder """,24.170588235294115
+"""609""","""Orzo and Pumpkin Soup with Sage""","""638""",""" chicken broth """,144,"""1014""",""" dehydrated onion soup mix """,120.48603351955306
+"""609""","""Orzo and Pumpkin Soup with Sage""","""638""",""" chicken broth """,144,"""1194""",""" envelope onion soup mix """,144.16443850267376
+"""609""","""Orzo and Pumpkin Soup with Sage""","""638""",""" chicken broth """,144,"""4108""",""" cond. onion soup """,150.60754189944132
+"""609""","""Orzo and Pumpkin Soup with Sage""","""638""",""" chicken broth """,144,"""4111""",""" cond. green pea soup """,164.8853211009174
+"""609""","""Orzo and Pumpkin Soup with Sage""","""3233""",""" smoked pork loin """,18,"""1065""",""" dried frozen tofu """,14.430285714285711
+"""609""","""Orzo and Pumpkin Soup with Sage""","""3233""",""" smoked pork loin """,18,"""1102""",""" dried shrimp """,12.626499999999998
+"""609""","""Orzo and Pumpkin Soup with Sage""","""3233""",""" smoked pork loin """,18,"""1103""",""" dried shrimp powder """,14.854705882352938
+"""645""","""Broccoli Amandine""","""638""",""" chicken broth """,67.8,"""1014""",""" dehydrated onion soup mix """,77.40223464
+"""645""","""Broccoli Amandine""","""638""",""" chicken broth """,67.8,"""3865""",""" onion soup mix """,48.44405594405593
+"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60,"""311""",""" bouillon cube """,54.17035928143713
+"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60,"""346""",""" broth or low-sodium bouillon """,54.17035928143713
+"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60,"""3865""",""" onion soup mix """,63.261888111888105
+"""671""","""Spring Butterflies""","""660""",""" chicken stock """,60,"""311""",""" bouillon cube """,43.252245508982035
+"""671""","""Spring Butterflies""","""660""",""" chicken stock """,60,"""346""",""" broth or low-sodium bouillon """,43.252245508982035
+"""671""","""Spring Butterflies""","""660""",""" chicken stock """,60,"""3865""",""" onion soup mix """,50.511363636363626
+"""1034""","""Chicken and Rice Casserole with Summer Vegetables""","""638""",""" chicken broth """,120,"""311""",""" bouillon cube """,110.37524950099801
+"""1034""","""Chicken and Rice Casserole with Summer Vegetables""","""638""",""" chicken broth """,120,"""346""",""" broth or low-sodium bouillon """,110.37524950099801
+"""1034""","""Chicken and Rice Casserole with Summer Vegetables""","""638""",""" chicken broth """,120,"""3865""",""" onion soup mix """,128.8997668997669
+"""1037""","""Gourmet Chicken Bake""","""638""",""" chicken broth """,220,"""4091""",""" cond. black bean soup """,212.0290849673203
+"""1037""","""Gourmet Chicken Bake""","""638""",""" chicken broth """,220,"""4111""",""" cond. green pea soup """,165.34378185524974
+"""1142""","""Orange-Currant Couscous""","""2127""",""" low-fat reduced sodium chicken broth """,60,"""1014""",""" dehydrated onion soup mix """,68.81396648044694
+"""1142""","""Orange-Currant Couscous""","""2127""",""" low-fat reduced sodium chicken broth """,60,"""3865""",""" onion soup mix """,43.068881118881116
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""790""",""" cond. reduced-sodium tomato soup """,72.44642857142857
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4090""",""" cond. cream of asparagus soup """,45.384727626459146
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4094""",""" cond. cheese soup """,42.41409090909091
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4106""",""" cond. mushroom barley soup """,77.75916666666666
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4109""",""" cond. cream of onion soup """,53.01761363636363
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4113""",""" cond. cream of potato soup """,48.197830578512395
+"""1054""","""Lemon Rice""","""1215""",""" fat-free chicken broth """,60,"""4114""",""" cond. tomato rice soup """,71.12118902439025
+"""1057""","""Jambalaya""","""3240""",""" smoked turkey sausage """,42.65625,"""1065""",""" dried frozen tofu """,38.747142857142855
+"""1057""","""Jambalaya""","""3240""",""" smoked turkey sausage """,42.65625,"""1102""",""" dried shrimp """,33.90375
+"""1057""","""Jambalaya""","""3240""",""" smoked turkey sausage """,42.65625,"""1103""",""" dried shrimp powder """,39.88676470588235
+"""1092""","""Hearty Healthy Chicken Salad""","""638""",""" chicken broth """,40,"""1014""",""" dehydrated onion soup mix """,42.373743016759775
+"""1092""","""Hearty Healthy Chicken Salad""","""638""",""" chicken broth """,40,"""1194""",""" envelope onion soup mix """,50.701203208556144
+"""1158""","""Seafood Pear Pasta""","""902""",""" crab meat """,43.5,"""1065""",""" dried frozen tofu """,39.99238095238095
+"""1158""","""Seafood Pear Pasta""","""902""",""" crab meat """,43.5,"""1102""",""" dried shrimp """,34.99333333333333
+"""1158""","""Seafood Pear Pasta""","""902""",""" crab meat """,43.5,"""1103""",""" dried shrimp powder """,41.16862745098039
+"""1154""","""Shrimp-Pear Pasta Salad""","""797""",""" cooked bay shrimp """,18.958333333333332,"""1065""",""" dried frozen tofu """,14.076253968253965
+"""1154""","""Shrimp-Pear Pasta Salad""","""797""",""" cooked bay shrimp """,18.958333333333332,"""1103""",""" dried shrimp powder """,14.490261437908494
+"""1130""","""Seafood Risotto""","""2310""",""" medium-size shrimp """,56.875,"""1065""",""" dried frozen tofu """,56.98023809523809
+"""1130""","""Seafood Risotto""","""2310""",""" medium-size shrimp """,56.875,"""1102""",""" dried shrimp """,49.857708333333335
+"""1130""","""Seafood Risotto""","""2310""",""" medium-size shrimp """,56.875,"""1103""",""" dried shrimp powder """,58.65612745098039
+"""1130""","""Seafood Risotto""","""3047""",""" scallops """,56.875,"""1065""",""" dried frozen tofu """,54.81357142857143
+"""1130""","""Seafood Risotto""","""3047""",""" scallops """,56.875,"""1102""",""" dried shrimp """,47.961875000000006
+"""1130""","""Seafood Risotto""","""3047""",""" scallops """,56.875,"""1103""",""" dried shrimp powder """,56.42573529411765
+"""1141""","""Risotto Con Frutti Di Mare""","""3351""",""" Surimi seafood """,58,"""1065""",""" dried frozen tofu """,53.386041269841265
+"""1141""","""Risotto Con Frutti Di Mare""","""3351""",""" Surimi seafood """,58,"""1102""",""" dried shrimp """,46.712786111111114
+"""1141""","""Risotto Con Frutti Di Mare""","""3351""",""" Surimi seafood """,58,"""1103""",""" dried shrimp powder """,54.956218954248364
+"""1147""","""Sheepshead Bay Sea Bass""","""840""",""" shrimp """,37.916666666666664,"""1102""",""" dried shrimp """,46.78916666666666
+"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""155""",""" bean curd """,57.169543235704325
+"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""1244""",""" firm tofu """,41.44647371081901
+"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""4132""",""" firm Chinese-style tofu """,43.56064027630181
+"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""4149""",""" cheese and bean burrito """,50.41889606396064
+"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""4152""",""" taco """,61.27139387144993
+"""1156""","""Moroccan Catfish Couscous""","""638""",""" chicken broth """,70,"""311""",""" bouillon cube """,62.70658682634731
+"""1156""","""Moroccan Catfish Couscous""","""638""",""" chicken broth """,70,"""346""",""" broth or low-sodium bouillon """,62.70658682634731
+"""1156""","""Moroccan Catfish Couscous""","""638""",""" chicken broth """,70,"""3865""",""" onion soup mix """,73.23076923076923
+"""1167""","""Spanish Clams and Rice""","""3225""",""" smoked ham """,19.333333333333332,"""1065""",""" dried frozen tofu """,21.82857142857143
+"""1167""","""Spanish Clams and Rice""","""3225""",""" smoked ham """,19.333333333333332,"""1102""",""" dried shrimp """,19.1
+"""1167""","""Spanish Clams and Rice""","""3225""",""" smoked ham """,19.333333333333332,"""1103""",""" dried shrimp powder """,22.47058823529412
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""1130""",""" dry instant espresso """,87.97085287221572
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""1828""",""" instant coffee powder """,64.68891163793104
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""2312""",""" medium-sweet sherry """,68.84324541284404
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""2599""",""" Pernod """,98.86579380764164
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""3462""",""" Tia Maria """,101.26739203778678
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""4240""",""" cappuccino """,67.60282657657658
+"""1180""","""Linguine with Clam Sauce""","""751""",""" clam juice """,90,"""4619""",""" chocolate-covered coffee bean """,100.05218333333333
+"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""155""",""" bean curd """,22.812887029288703
+"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""1244""",""" firm tofu """,16.538766430738118
+"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""4132""",""" firm Chinese-style tofu """,17.38240170031881
+"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""4149""",""" cheese and bean burrito """,20.119114391143906
+"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""4152""",""" taco """,24.449686098654706
+"""1187""","""Catfish and Shrimp Soup""","""840""",""" shrimp """,28.4375,"""1065""",""" dried frozen tofu """,32.010238095238094
+"""1187""","""Catfish and Shrimp Soup""","""840""",""" shrimp """,28.4375,"""1102""",""" dried shrimp """,28.008958333333336
+"""1187""","""Catfish and Shrimp Soup""","""840""",""" shrimp """,28.4375,"""1103""",""" dried shrimp powder """,32.95171568627451
+"""1211""","""Sweet-and-Sour Sauce""","""638""",""" chicken broth """,15.84,"""4090""",""" cond. cream of asparagus soup """,16.81906614785992
+"""1211""","""Sweet-and-Sour Sauce""","""638""",""" chicken broth """,15.84,"""4094""",""" cond. cheese soup """,15.718181818181817
+"""1211""","""Sweet-and-Sour Sauce""","""638""",""" chicken broth """,15.84,"""4109""",""" cond. cream of onion soup """,19.64772727272727
+"""1211""","""Sweet-and-Sour Sauce""","""638""",""" chicken broth """,15.84,"""4113""",""" cond. cream of potato soup """,17.861570247933884
+"""1195""","""Molded Crabmeat Mousse""","""902""",""" crab meat """,38.666666666666664,"""3429""",""" tempeh """,31.36945812807881
+"""1195""","""Molded Crabmeat Mousse""","""902""",""" crab meat """,38.666666666666664,"""3478""",""" tofu or bean curd """,38.59393939393939
+"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200,"""311""",""" bouillon cube """,170.79271457085832
+"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200,"""346""",""" broth or low-sodium bouillon """,170.79271457085832
+"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200,"""3865""",""" onion soup mix """,199.45722610722612
+"""1199""","""Catfish and Wild Rice Soup""","""638""",""" chicken broth """,200,"""311""",""" bouillon cube """,219.22810379241517
+"""1199""","""Catfish and Wild Rice Soup""","""638""",""" chicken broth """,200,"""346""",""" broth or low-sodium bouillon """,219.22810379241517
+"""1199""","""Catfish and Wild Rice Soup""","""638""",""" chicken broth """,200,"""3865""",""" onion soup mix """,256.02163170163163
+"""1209""","""Saffron Crawfish Risotto""","""638""",""" chicken broth """,80,"""311""",""" bouillon cube """,94.41947605
+"""1209""","""Saffron Crawfish Risotto""","""638""",""" chicken broth """,80,"""346""",""" broth or low-sodium bouillon """,94.41947605
+"""1219""","""Crab Linguine""","""902""",""" crab meat """,37.916666666666664,"""3429""",""" tempeh """,49.271346469622316
