@@ -1,45 +1,25 @@
 ﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quantity,subsitute_food_id,substitute_food_name,substitute_food_quantity
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""311""",""" bouillon cube """,65.76500000000007
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""346""",""" broth or low-sodium bouillon """,65.76500000000007
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""451""",""" canned cream of celery soup """,74.73295454545463
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""790""",""" cond. reduced-sodium tomato soup """,82.2062500000001
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""4109""",""" cond. cream of onion soup """,58.718750000000064
-"""563""","""Mushroom and Beef Stir-Up""","""446""",""" canned condensed beef broth """,76.125,"""4114""",""" cond. tomato rice soup """,71.48369565217399
-"""1020""","""Healthclub Chicken Salad""","""804""",""" cooked chicken """,120.0,"""4149""",""" cheese and bean burrito """,112.83333333333334
-"""1020""","""Healthclub Chicken Salad""","""804""",""" cooked chicken """,120.0,"""4151""",""" cheese enchilada """,112.83333333333334
-"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""4152""",""" taco """,137.4166666666669
-"""1099""","""Sonoma Turkey Bouillabaisse""","""4286""",""" skinned turkey thighs """,199.0625,"""4152""",""" taco """,163.95833333333337
-"""1130""","""Seafood Risotto""","""2310""",""" medium-size shrimp """,56.875,"""4149""",""" cheese and bean burrito """,46.0
-"""1130""","""Seafood Risotto""","""2310""",""" medium-size shrimp """,56.875,"""4151""",""" cheese enchilada """,46.0
-"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""1065""",""" dried frozen tofu """,40.73717948717947
-"""1135""","""Simply Snapper""","""2486""",""" Pacific snapper """,113.75,"""1065""",""" dried frozen tofu """,94.03846153846156
-"""1151""","""Chinese Steamed Fish""","""1246""",""" firm white fish fillet """,87.0,"""4152""",""" taco """,62.5
-"""1164""","""Elegant Oysters""","""2482""",""" oyster """,116.0,"""4149""",""" cheese and bean burrito """,144.60416666666657
-"""1164""","""Elegant Oysters""","""2482""",""" oyster """,116.0,"""4151""",""" cheese enchilada """,144.60416666666657
-"""1165""","""Seafood Jambalaya""","""3351""",""" Surimi seafood """,75.83333333333333,"""4149""",""" cheese and bean burrito """,63.075
-"""1165""","""Seafood Jambalaya""","""3351""",""" Surimi seafood """,75.83333333333333,"""4151""",""" cheese enchilada """,63.075
-"""1175""","""Grilled Fish with Veracruz Sauce""","""1242""",""" firm fish fillet """,227.5,"""4152""",""" taco """,199.99999999999991
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""297""",""" bottled chili sauce """,29.41176470588236
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""304""",""" bottled microwave browning sauce """,29.41176470588236
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""310""",""" bottled spaghetti sauce """,31.250000000000007
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""485""",""" canned tomato sauce, low sodium """,30.303030303030308
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""527""",""" canned tomato sauce """,45.45454545454547
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""575""",""" catsup """,38.461538461538474
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1210""",""" fajita sauce """,47.619047619047635
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1647""",""" green olive """,50.000000000000014
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1777""",""" homestyle spaghetti sauce """,31.250000000000007
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1862""",""" Italian tomato sauce """,29.41176470588236
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1878""",""" jarred CLASSICO Pasta Sauce, any flavor """,28.57142857142858
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1903""",""" ketchup """,38.461538461538474
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2128""",""" low sodium chili sauce """,38.461538461538474
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2156""",""" lowcal French dressing """,43.478260869565226
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2157""",""" lowcal French salad dressing """,43.478260869565226
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2247""",""" low-cal mayonnaise-type salad dressing """,47.619047619047635
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2252""",""" meatless spaghetti sauce """,31.250000000000007
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2633""",""" pimiento-stuffed green olives """,40.000000000000014
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""3490""",""" canned tomato sauce, no salt added """,45.45454545454547
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4086""",""" russian salad dressing """,34.482758620689665
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4087""",""" lowcal russian salad dressing """,34.482758620689665
-"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4528""",""" canned medium olives """,50.000000000000014
-"""1200""","""Halibut in Tarragon""","""1733""",""" halibut steaks or fillets """,113.75,"""4152""",""" taco """,107.50000000000037
-"""1212""","""Grilled Halibut""","""1732""",""" halibut steak """,170.625,"""4152""",""" taco """,187.5000000000005
+"""531""","""Lamb Tortellini Minestrone""","""427""",""" canned beef broth """,76.125,"""4094""",""" cond. cheese soup """,98.12946428571429
+"""538""","""Braised Eye of the Round""","""172""",""" Beef Eye Round Roast """,113.75,"""4152""",""" taco """,93.99999999999999
+"""543""","""Beef Fajitas""","""192""",""" beef top round steak """,113.75,"""4152""",""" taco """,143.61111111111114
+"""552""","""Beef Jambalaya""","""175""",""" Beef Ground Round """,85.3125,"""4152""",""" taco """,79.37500000000004
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""4090""",""" cond. cream of asparagus soup """,102.22142857142863
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""4094""",""" cond. cheese soup """,76.66607142857146
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""4103""",""" gazpacho soup """,99.84418604651168
+"""560""","""Ranch-Style Beans""","""427""",""" canned beef broth """,84.1,"""4108""",""" cond. onion soup """,104.71463414634152
+"""595""","""Beef Fajitas with Fresh Tomatoes""","""1259""",""" flank steak """,113.75,"""4149""",""" cheese and bean burrito """,101.99999999999997
+"""595""","""Beef Fajitas with Fresh Tomatoes""","""1259""",""" flank steak """,113.75,"""4151""",""" cheese enchilada """,101.99999999999997
+"""611""","""Texas Chili 'n Pasta""","""168""",""" beef chuck """,85.3125,"""4149""",""" cheese and bean burrito """,65.0
+"""611""","""Texas Chili 'n Pasta""","""168""",""" beef chuck """,85.3125,"""4151""",""" cheese enchilada """,65.0
+"""1022""","""Turkey Pot Roast""","""3551""",""" turkey thigh """,284.375,"""4149""",""" cheese and bean burrito """,318.06250000000006
+"""1022""","""Turkey Pot Roast""","""3551""",""" turkey thigh """,284.375,"""4151""",""" cheese enchilada """,318.06250000000006
+"""1051""","""Tomato Cajun Chicken Salad""","""804""",""" cooked chicken """,120.0,"""1065""",""" dried frozen tofu """,89.23076923076924
+"""1128""","""Poached Fish with Horseradish Sauce""","""1379""",""" fresh or frozen fish fillet """,116.0,"""4152""",""" taco """,150.00000000000003
+"""1131""",""" Fish Baked with Summer Squash, Onion and Herbs ""","""3682""",""" white fish fillet """,113.75,"""1065""",""" dried frozen tofu """,114.27884615384615
+"""1141""","""Risotto Con Frutti Di Mare""","""3351""",""" Surimi seafood """,58.0,"""4149""",""" cheese and bean burrito """,63.083333333333336
+"""1141""","""Risotto Con Frutti Di Mare""","""3351""",""" Surimi seafood """,58.0,"""4151""",""" cheese enchilada """,63.083333333333336
+"""1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""4149""",""" cheese and bean burrito """,279.06249999999994
+"""1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""4151""",""" cheese enchilada """,279.06249999999994
+"""1182""","""The 'T and T Deluxe'""","""519""",""" canned solid white tuna in water """,62.833333333333336,"""4149""",""" cheese and bean burrito """,66.04333333333336
+"""1182""","""The 'T and T Deluxe'""","""519""",""" canned solid white tuna in water """,62.833333333333336,"""4151""",""" cheese enchilada """,66.04333333333336
+"""1188""","""Baked Fish""","""1379""",""" fresh or frozen fish fillet """,116.0,"""4152""",""" taco """,121.5625

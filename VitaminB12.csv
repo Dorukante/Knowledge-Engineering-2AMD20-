@@ -1,21 +1,5 @@
 ﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quantity,subsitute_food_id,substitute_food_name,substitute_food_quantity
-"""525""","""Quick Lamb and Pasta Dinner Skillet""","""257""",""" boneless American lamb shoulder """,75.83333333333333,"""4151""",""" cheese enchilada """,67.12962962962969
-"""531""","""Lamb Tortellini Minestrone""","""4228""",""" lean ground lamb """,56.875,"""4151""",""" cheese enchilada """,52.36111111111111
-"""549""","""Sesame Potato Sticks with Oriental Beef and Peppers""","""3502""",""" top round steak """,85.3125,"""4152""",""" taco """,79.6250000000001
-"""553""","""Gourmet Beef Burgers""","""175""",""" Beef Ground Round """,113.75,"""4149""",""" cheese and bean burrito """,113.75000000000124
-"""554""","""Spicy Beef Tortillas""","""175""",""" Beef Ground Round """,113.75,"""4152""",""" taco """,97.15000000000009
-"""563""","""Mushroom and Beef Stir-Up""","""1259""",""" flank steak """,58.0,"""3429""",""" tempeh """,54.375000000000114
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""4094""",""" cond. cheese soup """,34.0
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""4108""",""" cond. onion soup """,34.0
-"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""4152""",""" taco """,105.00000000000004
-"""1087""","""Turkey Topper""","""851""",""" cooked turkey """,85.3125,"""4149""",""" cheese and bean burrito """,60.00000000000027
-"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""4149""",""" cheese and bean burrito """,96.0
-"""1096""","""Tomato-Turkey Noodle Bake""","""851""",""" cooked turkey """,80.0,"""4149""",""" cheese and bean burrito """,86.25000000000023
-"""1101""","""Layered Chicken Salad""","""3153""",""" skinned chicken """,113.75,"""3429""",""" tempeh """,120.46875000000001
-"""1122""","""Dilled Potato Rounds Fish Fillets""","""1252""",""" fish fillet """,113.75,"""4152""",""" taco """,88.62500000000003
-"""1128""","""Poached Fish with Horseradish Sauce""","""1379""",""" fresh or frozen fish fillet """,116.0,"""4149""",""" cheese and bean burrito """,125.75000000000001
-"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""4149""",""" cheese and bean burrito """,59.999999999999424
-"""1143""","""Fish Florentine""","""1252""",""" fish fillet """,116.0,"""3429""",""" tempeh """,101.87499999999997
-"""1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""3429""",""" tempeh """,159.60937500000003
-"""1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""4149""",""" cheese and bean burrito """,255.37500000000006
-"""1165""","""Seafood Jambalaya""","""3351""",""" Surimi seafood """,75.83333333333333,"""3429""",""" tempeh """,63.437499999999865
+"""589""","""Mixed Bean Casserole""","""1734""",""" ham """,56.875,"""4152""",""" taco """,44.0
+"""590""","""Mexican-Style Bean Sandwiches""","""722""",""" chorizo or hot Italian sausage """,14.21875,"""4151""",""" cheese enchilada """,15.308333333333334
+"""599""","""Noodle-Crusted Quiche Noel""","""1995""",""" lean cooked ham """,30.0,"""4152""",""" taco """,30.234375
+"""1036""","""Smoked Chicken Pizza""","""3231""",""" smoked or roast chicken """,29.0,"""4152""",""" taco """,20.833333333333332

@@ -1,29 +1,195 @@
 ﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quantity,subsitute_food_id,substitute_food_name,substitute_food_quantity
-"""516""","""Beef Brisket""","""259""",""" boneless beef brisket """,136.5,"""4151""",""" cheese enchilada """,134.56690140845066
-"""518""","""Sherried Steak Strips""","""180""",""" beef round tip steak """,116.0,"""4151""",""" cheese enchilada """,122.04225352112684
-"""543""","""Beef Fajitas""","""192""",""" beef top round steak """,113.75,"""4151""",""" cheese enchilada """,83.20422535211281
-"""553""","""Gourmet Beef Burgers""","""175""",""" Beef Ground Round """,113.75,"""155""",""" bean curd """,107.56058558558564
-"""553""","""Gourmet Beef Burgers""","""175""",""" Beef Ground Round """,113.75,"""1244""",""" firm tofu """,108.53840909090914
-"""555""","""Summertime Beef Salad""","""4290""",""" beef sirloin steak """,113.75,"""4151""",""" cheese enchilada """,100.98591549295774
-"""556""","""Apricot Relish Steak""","""4290""",""" beef sirloin steak """,113.75,"""4151""",""" cheese enchilada """,92.9225352112676
-"""565""","""Sweet Potato-Sausage Casserole""","""2007""",""" lean sausage meat """,75.83333333333333,"""155""",""" bean curd """,54.23423423423424
-"""565""","""Sweet Potato-Sausage Casserole""","""2007""",""" lean sausage meat """,75.83333333333333,"""1244""",""" firm tofu """,54.72727272727273
-"""565""","""Sweet Potato-Sausage Casserole""","""2007""",""" lean sausage meat """,75.83333333333333,"""4151""",""" cheese enchilada """,84.78873239436622
-"""576""","""Sherried Beef""","""192""",""" beef top round steak """,85.3125,"""155""",""" bean curd """,64.6621621621622
-"""576""","""Sherried Beef""","""192""",""" beef top round steak """,85.3125,"""1244""",""" firm tofu """,65.25000000000004
-"""576""","""Sherried Beef""","""192""",""" beef top round steak """,85.3125,"""4151""",""" cheese enchilada """,101.09154929577473
-"""592""","""Broiled Marinated Beef Top Loin""","""190""",""" beef top loin """,113.75,"""4151""",""" cheese enchilada """,115.99471830985917
-"""1077""","""Turkey Rice Burgers""","""1708""",""" ground turkey """,56.875,"""4151""",""" cheese enchilada """,57.62323943661972
-"""1101""","""Layered Chicken Salad""","""3153""",""" skinned chicken """,113.75,"""4151""",""" cheese enchilada """,92.37499999999996
-"""1119""","""Sonoma Turkey and Vegetables""","""289""",""" whole boneless turkey """,227.5,"""4151""",""" cheese enchilada """,163.72887323943633
-"""1152""","""Shrimp with Snow Peas""","""3120""",""" frozen shrimp """,113.75,"""155""",""" bean curd """,137.5022522522522
-"""1152""","""Shrimp with Snow Peas""","""3120""",""" frozen shrimp """,113.75,"""1244""",""" firm tofu """,138.75227272727264
-"""1152""","""Shrimp with Snow Peas""","""3120""",""" frozen shrimp """,113.75,"""4132""",""" firm Chinese-style tofu """,90.31213017751476
-"""1152""","""Shrimp with Snow Peas""","""3120""",""" frozen shrimp """,113.75,"""4152""",""" taco """,86.23022598870052
-"""1163""","""Shrimp Fried Rice""","""844""",""" cooked shrimp """,90.0,"""4151""",""" cheese enchilada """,96.74859154929581
-"""1164""","""Elegant Oysters""","""2482""",""" oyster """,116.0,"""4151""",""" cheese enchilada """,94.18051643192489
-"""1218""","""Texas Shrimp Slaw""","""844""",""" cooked shrimp """,113.75,"""155""",""" bean curd """,106.84684684684676
-"""1218""","""Texas Shrimp Slaw""","""844""",""" cooked shrimp """,113.75,"""1244""",""" firm tofu """,107.81818181818173
-"""1173""","""Shrimp Provencal""","""3120""",""" frozen shrimp """,113.75,"""4151""",""" cheese enchilada """,114.5598591549295
-"""1202""","""Shark Kabobs""","""3096""",""" shark steak """,113.75,"""4151""",""" cheese enchilada """,84.31161971830984
-"""1432""","""Curried Chicken Livers Topped Spud""","""651""",""" chicken liver """,113.75,"""1103""",""" dried shrimp powder """,84.94454887218045
+"""517""","""Beef and Two Pepper Stew""","""189""",""" beef tip roast """,142.1875,"""3429""",""" tempeh """,107.43796296296294
+"""517""","""Beef and Two Pepper Stew""","""189""",""" beef tip roast """,142.1875,"""3478""",""" tofu or bean curd """,136.83136792452828
+"""517""","""Beef and Two Pepper Stew""","""189""",""" beef tip roast """,142.1875,"""4132""",""" firm Chinese-style tofu """,171.64644970414201
+"""517""","""Beef and Two Pepper Stew""","""189""",""" beef tip roast """,142.1875,"""4149""",""" cheese and bean burrito """,120.3661825726141
+"""517""","""Beef and Two Pepper Stew""","""189""",""" beef tip roast """,142.1875,"""4152""",""" taco """,163.88841807909603
+"""521""","""Greek-Style Lamb and Bean Skillet Dinner""","""1692""",""" ground lamb """,113.75,"""3478""",""" tofu or bean curd """,86.75117924528303
+"""521""","""Greek-Style Lamb and Bean Skillet Dinner""","""1692""",""" ground lamb """,113.75,"""4132""",""" firm Chinese-style tofu """,108.82396449704144
+"""521""","""Greek-Style Lamb and Bean Skillet Dinner""","""1692""",""" ground lamb """,113.75,"""4152""",""" taco """,103.90536723163842
+"""524""","""Zesty Lamb Taco Casserole""","""273""",""" boneless leg of lamb """,113.75,"""3429""",""" tempeh """,115.49259259259256
+"""524""","""Zesty Lamb Taco Casserole""","""273""",""" boneless leg of lamb """,113.75,"""3478""",""" tofu or bean curd """,147.0896226415094
+"""524""","""Zesty Lamb Taco Casserole""","""273""",""" boneless leg of lamb """,113.75,"""4149""",""" cheese and bean burrito """,129.3900414937759
+"""526""","""Microwavable Savory Lamb Potatoes""","""1693""",""" ground lean American lamb """,113.75,"""155""",""" bean curd """,128.4234234234234
+"""526""","""Microwavable Savory Lamb Potatoes""","""1693""",""" ground lean American lamb """,113.75,"""1244""",""" firm tofu """,129.59090909090904
+"""526""","""Microwavable Savory Lamb Potatoes""","""1693""",""" ground lean American lamb """,113.75,"""4132""",""" firm Chinese-style tofu """,84.3491124260355
+"""526""","""Microwavable Savory Lamb Potatoes""","""1693""",""" ground lean American lamb """,113.75,"""4152""",""" taco """,80.53672316384178
+"""529""","""Mesa Lamb and Bean Salad""","""4301""",""" cooked lean American lamb """,120.0,"""3429""",""" tempeh """,125.78009259259261
+"""529""","""Mesa Lamb and Bean Salad""","""4301""",""" cooked lean American lamb """,120.0,"""4149""",""" cheese and bean burrito """,140.9154564315353
+"""530""","""Mandarin Lamb with Oriental Noodles""","""267""",""" boneless fresh American leg of lamb """,113.75,"""3478""",""" tofu or bean curd """,88.51533018867923
+"""530""","""Mandarin Lamb with Oriental Noodles""","""267""",""" boneless fresh American leg of lamb """,113.75,"""4132""",""" firm Chinese-style tofu """,111.0369822485207
+"""530""","""Mandarin Lamb with Oriental Noodles""","""267""",""" boneless fresh American leg of lamb """,113.75,"""4152""",""" taco """,106.01836158192089
+"""537""","""Middle Eastern Meatballs""","""175""",""" Beef Ground Round """,85.3125,"""1103""",""" dried shrimp powder """,71.32166353383458
+"""540""","""Spinach Salad with Fruit and Beef""","""192""",""" beef top round steak """,113.75,"""1103""",""" dried shrimp powder """,127.21311090225566
+"""542""","""Mediterranean Beef Stew""","""258""",""" boneless beef bottom round """,113.75,"""3429""",""" tempeh """,95.98117283950617
+"""542""","""Mediterranean Beef Stew""","""258""",""" boneless beef bottom round """,113.75,"""3478""",""" tofu or bean curd """,122.24017295597484
+"""542""","""Mediterranean Beef Stew""","""258""",""" boneless beef bottom round """,113.75,"""4149""",""" cheese and bean burrito """,107.5307745504841
+"""542""","""Mediterranean Beef Stew""","""258""",""" boneless beef bottom round """,113.75,"""4152""",""" taco """,146.41195856873824
+"""544""","""Beef Pizza""","""175""",""" Beef Ground Round """,85.3125,"""3429""",""" tempeh """,62.36111111111112
+"""544""","""Beef Pizza""","""175""",""" Beef Ground Round """,85.3125,"""3478""",""" tofu or bean curd """,79.42216981132077
+"""544""","""Beef Pizza""","""175""",""" Beef Ground Round """,85.3125,"""4132""",""" firm Chinese-style tofu """,99.63017751479293
+"""544""","""Beef Pizza""","""175""",""" Beef Ground Round """,85.3125,"""4149""",""" cheese and bean burrito """,69.86514522821578
+"""544""","""Beef Pizza""","""175""",""" Beef Ground Round """,85.3125,"""4152""",""" taco """,95.12711864406782
+"""548""","""Soft Taco""","""262""",""" boneless beef sirloin """,58.0,"""155""",""" bean curd """,69.18918918918918
+"""548""","""Soft Taco""","""262""",""" boneless beef sirloin """,58.0,"""1244""",""" firm tofu """,69.8181818181818
+"""548""","""Soft Taco""","""262""",""" boneless beef sirloin """,58.0,"""4132""",""" firm Chinese-style tofu """,45.443786982248525
+"""548""","""Soft Taco""","""262""",""" boneless beef sirloin """,58.0,"""4152""",""" taco """,43.389830508474574
+"""550""","""Potato Sticks with Glazed Pork and Cabbage""","""279""",""" boneless pork tenderloin """,113.75,"""3478""",""" tofu or bean curd """,80.17099056603773
+"""550""","""Potato Sticks with Glazed Pork and Cabbage""","""279""",""" boneless pork tenderloin """,113.75,"""4132""",""" firm Chinese-style tofu """,100.56952662721895
+"""550""","""Potato Sticks with Glazed Pork and Cabbage""","""279""",""" boneless pork tenderloin """,113.75,"""4152""",""" taco """,96.02401129943503
+"""551""","""Western Pork Barbecue Supper""","""277""",""" boneless pork shoulder """,170.625,"""4151""",""" cheese enchilada """,169.92957746478876
+"""552""","""Beef Jambalaya""","""175""",""" Beef Ground Round """,85.3125,"""1103""",""" dried shrimp powder """,90.593632518797
+"""557""","""Meatball-Rice Soup""","""175""",""" Beef Ground Round """,56.875,"""3429""",""" tempeh """,44.92253086419755
+"""557""","""Meatball-Rice Soup""","""175""",""" Beef Ground Round """,56.875,"""3478""",""" tofu or bean curd """,57.21265723270443
+"""557""","""Meatball-Rice Soup""","""175""",""" Beef Ground Round """,56.875,"""4132""",""" firm Chinese-style tofu """,71.76972386587776
+"""557""","""Meatball-Rice Soup""","""175""",""" Beef Ground Round """,56.875,"""4149""",""" cheese and bean burrito """,50.32814661134166
+"""557""","""Meatball-Rice Soup""","""175""",""" Beef Ground Round """,56.875,"""4152""",""" taco """,68.52589453860644
+"""570""","""Italian Brunch Rice""","""3365""",""" sweet Italian sausage """,28.4375,"""3478""",""" tofu or bean curd """,20.567511792452827
+"""570""","""Italian Brunch Rice""","""3365""",""" sweet Italian sausage """,28.4375,"""4132""",""" firm Chinese-style tofu """,25.800665680473372
+"""570""","""Italian Brunch Rice""","""3365""",""" sweet Italian sausage """,28.4375,"""4152""",""" taco """,24.634533898305083
+"""571""","""Kabobs with Thyme Rice""","""262""",""" boneless beef sirloin """,75.83333333333333,"""3478""",""" tofu or bean curd """,59.84276729559749
+"""571""","""Kabobs with Thyme Rice""","""262""",""" boneless beef sirloin """,75.83333333333333,"""4132""",""" firm Chinese-style tofu """,75.06903353057201
+"""571""","""Kabobs with Thyme Rice""","""262""",""" boneless beef sirloin """,75.83333333333333,"""4152""",""" taco """,71.67608286252356
+"""573""","""Gingered Beef Stir Fry""","""4290""",""" beef sirloin steak """,113.75,"""3478""",""" tofu or bean curd """,85.4433962264151
+"""573""","""Gingered Beef Stir Fry""","""4290""",""" beef sirloin steak """,113.75,"""4132""",""" firm Chinese-style tofu """,107.18343195266274
+"""573""","""Gingered Beef Stir Fry""","""4290""",""" beef sirloin steak """,113.75,"""4152""",""" taco """,102.33898305084746
+"""574""","""Five-Spice Fried Rice""","""262""",""" boneless beef sirloin """,75.075,"""155""",""" bean curd """,64.5439189189189
+"""574""","""Five-Spice Fried Rice""","""262""",""" boneless beef sirloin """,75.075,"""1244""",""" firm tofu """,65.1306818181818
+"""577""","""Holiday Stuffed Pork Roast""","""276""",""" boneless pork loin roast """,265.4166666666667,"""1244""",""" firm tofu """,186.0909090909091
+"""577""","""Holiday Stuffed Pork Roast""","""276""",""" boneless pork loin roast """,265.4166666666667,"""4151""",""" cheese enchilada """,288.3098591549296
+"""595""","""Beef Fajitas with Fresh Tomatoes""","""1259""",""" flank steak """,113.75,"""3478""",""" tofu or bean curd """,82.08490566037736
+"""595""","""Beef Fajitas with Fresh Tomatoes""","""1259""",""" flank steak """,113.75,"""4132""",""" firm Chinese-style tofu """,102.97041420118344
+"""595""","""Beef Fajitas with Fresh Tomatoes""","""1259""",""" flank steak """,113.75,"""4152""",""" taco """,98.31638418079096
+"""596""",""" Tomato, Pork and Pepper Kabob ""","""272""",""" boneless lean pork """,87.0,"""155""",""" bean curd """,73.35135135135133
+"""596""",""" Tomato, Pork and Pepper Kabob ""","""272""",""" boneless lean pork """,87.0,"""1244""",""" firm tofu """,74.01818181818179
+"""598""","""Hazelnut Beef Stir Fry""","""192""",""" beef top round steak """,113.75,"""3429""",""" tempeh """,91.35185185185188
+"""598""","""Hazelnut Beef Stir Fry""","""192""",""" beef top round steak """,113.75,"""3478""",""" tofu or bean curd """,116.34433962264154
+"""598""","""Hazelnut Beef Stir Fry""","""192""",""" beef top round steak """,113.75,"""4132""",""" firm Chinese-style tofu """,145.94674556213025
+"""598""","""Hazelnut Beef Stir Fry""","""192""",""" beef top round steak """,113.75,"""4149""",""" cheese and bean burrito """,102.344398340249
+"""598""","""Hazelnut Beef Stir Fry""","""192""",""" beef top round steak """,113.75,"""4152""",""" taco """,139.35028248587577
+"""602""","""Fruited Ham and Blueberry Salad""","""3225""",""" smoked ham """,120.0,"""155""",""" bean curd """,126.59909909909912
+"""602""","""Fruited Ham and Blueberry Salad""","""3225""",""" smoked ham """,120.0,"""1244""",""" firm tofu """,127.75
+"""611""","""Texas Chili 'n Pasta""","""168""",""" beef chuck """,85.3125,"""1103""",""" dried shrimp powder """,71.03500939849621
+"""1022""","""Turkey Pot Roast""","""3551""",""" turkey thigh """,284.375,"""4151""",""" cheese enchilada """,295.7570422535211
+"""1024""","""Turkey with Orange""","""4286""",""" skinned turkey thighs """,227.5,"""3429""",""" tempeh """,159.31481481481475
+"""1024""","""Turkey with Orange""","""4286""",""" skinned turkey thighs """,227.5,"""3478""",""" tofu or bean curd """,202.90094339622635
+"""1024""","""Turkey with Orange""","""4286""",""" skinned turkey thighs """,227.5,"""4132""",""" firm Chinese-style tofu """,254.5266272189349
+"""1024""","""Turkey with Orange""","""4286""",""" skinned turkey thighs """,227.5,"""4149""",""" cheese and bean burrito """,178.4854771784232
+"""1024""","""Turkey with Orange""","""4286""",""" skinned turkey thighs """,227.5,"""4152""",""" taco """,243.02259887005644
+"""1032""","""Turkey Ring Meatloaf""","""1708""",""" ground turkey """,113.75,"""3429""",""" tempeh """,90.35706018518518
+"""1032""","""Turkey Ring Meatloaf""","""1708""",""" ground turkey """,113.75,"""3478""",""" tofu or bean curd """,115.07738797169812
+"""1032""","""Turkey Ring Meatloaf""","""1708""",""" ground turkey """,113.75,"""4132""",""" firm Chinese-style tofu """,144.35743343195267
+"""1032""","""Turkey Ring Meatloaf""","""1708""",""" ground turkey """,113.75,"""4149""",""" cheese and bean burrito """,101.22990145228216
+"""1032""","""Turkey Ring Meatloaf""","""1708""",""" ground turkey """,113.75,"""4152""",""" taco """,137.83280367231637
+"""1062""","""Hawaiian Turkey Salad""","""851""",""" cooked turkey """,80.0,"""3429""",""" tempeh """,66.83703703703704
+"""1062""","""Hawaiian Turkey Salad""","""851""",""" cooked turkey """,80.0,"""3478""",""" tofu or bean curd """,85.12264150943396
+"""1062""","""Hawaiian Turkey Salad""","""851""",""" cooked turkey """,80.0,"""4149""",""" cheese and bean burrito """,74.87966804979253
+"""1062""","""Hawaiian Turkey Salad""","""851""",""" cooked turkey """,80.0,"""4152""",""" taco """,101.954802259887
+"""1041""","""Stir-Fry Turkey Italiano""","""3528""",""" turkey breast cutlet """,113.75,"""155""",""" bean curd """,103.06024774774775
+"""1041""","""Stir-Fry Turkey Italiano""","""3528""",""" turkey breast cutlet """,113.75,"""1244""",""" firm tofu """,103.99715909090908
+"""1049""","""Turkey Parmigiana""","""3528""",""" turkey breast cutlet """,113.75,"""155""",""" bean curd """,107.027027027027
+"""1049""","""Turkey Parmigiana""","""3528""",""" turkey breast cutlet """,113.75,"""1244""",""" firm tofu """,107.99999999999997
+"""1051""","""Tomato Cajun Chicken Salad""","""804""",""" cooked chicken """,120.0,"""4151""",""" cheese enchilada """,103.83098591549297
+"""1061""","""Poached Turkey Normandy""","""3550""",""" turkey tenderloin """,113.75,"""155""",""" bean curd """,112.3837837837838
+"""1061""","""Poached Turkey Normandy""","""3550""",""" turkey tenderloin """,113.75,"""1244""",""" firm tofu """,113.40545454545455
+"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""3429""",""" tempeh """,92.37731481481482
+"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""3478""",""" tofu or bean curd """,117.65035377358492
+"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""4132""",""" firm Chinese-style tofu """,147.58505917159766
+"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""4149""",""" cheese and bean burrito """,103.4932572614108
+"""1064""","""New England Turkey Chowder""","""851""",""" cooked turkey """,120.0,"""4152""",""" taco """,140.9145480225989
+"""1351""","""B.L.T. Salad""","""112""",""" bacon """,20.0,"""3429""",""" tempeh """,24.716049382716047
+"""1067""","""Scandinavian Chicken Soup""","""4298""",""" cooked broiler-fryer, boned, skinned """,265.4166666666667,"""4151""",""" cheese enchilada """,284.5393192488264
+"""1068""","""Turkey Tetrazzini""","""851""",""" cooked turkey """,120.0,"""155""",""" bean curd """,140.23423423423424
+"""1068""","""Turkey Tetrazzini""","""851""",""" cooked turkey """,120.0,"""1244""",""" firm tofu """,141.5090909090909
+"""1068""","""Turkey Tetrazzini""","""851""",""" cooked turkey """,120.0,"""4132""",""" firm Chinese-style tofu """,92.10650887573966
+"""1068""","""Turkey Tetrazzini""","""851""",""" cooked turkey """,120.0,"""4152""",""" taco """,87.94350282485875
+"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""3429""",""" tempeh """,84.88888888888889
+"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""3478""",""" tofu or bean curd """,108.11320754716982
+"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""4132""",""" firm Chinese-style tofu """,135.62130177514797
+"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""4149""",""" cheese and bean burrito """,95.10373443983403
+"""1070""","""Chicken Rice Medley""","""4298""",""" cooked broiler-fryer, boned, skinned """,113.75,"""4152""",""" taco """,129.49152542372883
+"""1073""","""Barbecued Chicken on a Bun""","""122""",""" baked ham """,29.0,"""3429""",""" tempeh """,23.480648148148145
+"""1073""","""Barbecued Chicken on a Bun""","""122""",""" baked ham """,29.0,"""3478""",""" tofu or bean curd """,29.90459905660377
+"""1073""","""Barbecued Chicken on a Bun""","""122""",""" baked ham """,29.0,"""4132""",""" firm Chinese-style tofu """,37.51346153846154
+"""1073""","""Barbecued Chicken on a Bun""","""122""",""" baked ham """,29.0,"""4149""",""" cheese and bean burrito """,26.306120331950204
+"""1073""","""Barbecued Chicken on a Bun""","""122""",""" baked ham """,29.0,"""4152""",""" taco """,35.81793785310734
+"""1076""","""Pistachio Turkey Taco Salad""","""852""",""" cooked turkey breast """,113.75,"""4151""",""" cheese enchilada """,114.45774647887322
+"""1080""","""Peruvian Chicken with Plums""","""3153""",""" skinned chicken """,199.0625,"""155""",""" bean curd """,189.60754504504507
+"""1080""","""Peruvian Chicken with Plums""","""3153""",""" skinned chicken """,199.0625,"""1244""",""" firm tofu """,191.33125
+"""1083""","""Turkey Rolls Italian Style""","""3533""",""" turkey cutlet """,113.75,"""4151""",""" cheese enchilada """,119.67605633802818
+"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""3429""",""" tempeh """,72.04444444444442
+"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""3478""",""" tofu or bean curd """,91.75471698113205
+"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""4132""",""" firm Chinese-style tofu """,115.10059171597632
+"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""4149""",""" cheese and bean burrito """,80.71369294605807
+"""1089""","""Chicken Pasta Salad""","""4298""",""" cooked broiler-fryer, boned, skinned """,100.0,"""4152""",""" taco """,109.89830508474574
+"""1094""","""Turkey Sausage Patties""","""1708""",""" ground turkey """,75.83333333333333,"""155""",""" bean curd """,78.48175675675675
+"""1094""","""Turkey Sausage Patties""","""1708""",""" ground turkey """,75.83333333333333,"""1244""",""" firm tofu """,79.19522727272727
+"""1097""","""Dilly Turkey Stuffed Tomatoes""","""851""",""" cooked turkey """,80.0,"""3478""",""" tofu or bean curd """,56.15150943396227
+"""1097""","""Dilly Turkey Stuffed Tomatoes""","""851""",""" cooked turkey """,80.0,"""4132""",""" firm Chinese-style tofu """,70.43857988165682
+"""1097""","""Dilly Turkey Stuffed Tomatoes""","""851""",""" cooked turkey """,80.0,"""4152""",""" taco """,67.25491525423729
+"""1099""","""Sonoma Turkey Bouillabaisse""","""4286""",""" skinned turkey thighs """,199.0625,"""155""",""" bean curd """,218.86036036036035
+"""1099""","""Sonoma Turkey Bouillabaisse""","""4286""",""" skinned turkey thighs """,199.0625,"""1244""",""" firm tofu """,220.84999999999997
+"""1099""","""Sonoma Turkey Bouillabaisse""","""4286""",""" skinned turkey thighs """,199.0625,"""4132""",""" firm Chinese-style tofu """,143.74852071005918
+"""1103""","""Turkey and Pineapple on Skewers""","""1432""",""" skinless boneless turkey """,113.75,"""4151""",""" cheese enchilada """,89.15140845070422
+"""1108""","""Turkey Yakitori""","""290""",""" boneless turkey breast """,113.75,"""4151""",""" cheese enchilada """,101.74471830985915
+"""1109""","""Basic Turkey Burger Plus""","""1708""",""" ground turkey """,113.75,"""3478""",""" tofu or bean curd """,88.03319575471698
+"""1109""","""Basic Turkey Burger Plus""","""1708""",""" ground turkey """,113.75,"""4132""",""" firm Chinese-style tofu """,110.43217455621304
+"""1109""","""Basic Turkey Burger Plus""","""1708""",""" ground turkey """,113.75,"""4152""",""" taco """,105.44088983050848
+"""1117""","""Sesame Chicken Salad""","""805""",""" cooked chicken breast """,80.0,"""155""",""" bean curd """,97.39489489489488
+"""1117""","""Sesame Chicken Salad""","""805""",""" cooked chicken breast """,80.0,"""1244""",""" firm tofu """,98.280303030303
+"""1117""","""Sesame Chicken Salad""","""805""",""" cooked chicken breast """,80.0,"""4132""",""" firm Chinese-style tofu """,63.96942800788955
+"""1117""","""Sesame Chicken Salad""","""805""",""" cooked chicken breast """,80.0,"""4152""",""" taco """,61.07815442561205
+"""1122""","""Dilled Potato Rounds Fish Fillets""","""1252""",""" fish fillet """,113.75,"""155""",""" bean curd """,116.45270270270267
+"""1122""","""Dilled Potato Rounds Fish Fillets""","""1252""",""" fish fillet """,113.75,"""1244""",""" firm tofu """,117.5113636363636
+"""1127""","""Shrimp-Stuffed Shells""","""3120""",""" frozen shrimp """,56.875,"""1103""",""" dried shrimp powder """,49.5439379699248
+"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""3429""",""" tempeh """,42.65308641975309
+"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""3478""",""" tofu or bean curd """,54.32232704402516
+"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""4132""",""" firm Chinese-style tofu """,68.14398422090731
+"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""4149""",""" cheese and bean burrito """,47.785615491009686
+"""1133""","""Oysters on Pasta""","""2485""",""" oysters with liquid """,58.0,"""4152""",""" taco """,65.06403013182674
+"""1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""3429""",""" tempeh """,59.32962962962962
+"""1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""3478""",""" tofu or bean curd """,75.56132075471697
+"""1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""4132""",""" firm Chinese-style tofu """,94.78698224852072
+"""1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""4149""",""" cheese and bean burrito """,66.4688796680498
+"""1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""4152""",""" taco """,90.50282485875705
+"""1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""4151""",""" cheese enchilada """,240.7790492957746
+"""1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""249""",""" boiling water """,103.91919191919193
+"""1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""4384""",""" boiling salted water """,103.91919191919193
+"""1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""4462""",""" Kahlua """,76.2074074074074
+"""1179""","""Microwaved Fish with Italian Flair""","""1252""",""" fish fillet """,170.625,"""155""",""" bean curd """,121.84684684684687
+"""1179""","""Microwaved Fish with Italian Flair""","""1252""",""" fish fillet """,170.625,"""1244""",""" firm tofu """,122.95454545454548
+"""1179""","""Microwaved Fish with Italian Flair""","""1252""",""" fish fillet """,170.625,"""4151""",""" cheese enchilada """,190.49295774647894
+"""1184""","""Red Snapper Orlando""","""2878""",""" red snapper fillet """,170.625,"""4151""",""" cheese enchilada """,154.67904929577463
+"""1193""","""Microwaved Oriental Swordfish Steaks""","""3389""",""" swordfish steaks """,113.75,"""4151""",""" cheese enchilada """,116.35862676056335
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""134""",""" barbecue sauce """,46.24999999999999
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""297""",""" bottled chili sauce """,37.0
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""304""",""" bottled microwave browning sauce """,37.0
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""310""",""" bottled spaghetti sauce """,37.94871794871795
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""461""",""" canned enchilada sauce """,44.179104477611936
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""527""",""" canned tomato sauce """,30.833333333333332
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""622""",""" chestnut honey """,32.527472527472526
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""984""",""" curry sauce """,32.88888888888888
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1192""",""" envelope enchilada sauce mix """,44.179104477611936
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1224""",""" fermented black beans """,32.88888888888888
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1772""",""" hoisin sauce """,29.306930693069305
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1777""",""" homestyle spaghetti sauce """,37.94871794871795
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1843""",""" Italian dressing without oil """,46.98412698412698
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""1862""",""" Italian tomato sauce """,37.0
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2089""",""" lite salad dressing """,42.89855072463768
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2091""",""" lite Italian salad dressing """,42.89855072463768
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2094""",""" lite vinaigrette dressing """,42.89855072463768
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2101""",""" loganberry preserves """,46.24999999999999
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2121""",""" low calorie Italian salad dressing """,49.33333333333333
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2227""",""" marinara sauce """,33.258426966292134
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2252""",""" meatless spaghetti sauce """,37.94871794871795
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2407""",""" no salt diet Italian salad dressing """,46.98412698412698
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2568""",""" peanut sauce """,32.527472527472526
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""2611""",""" sour pickle relish """,34.02298850574713
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""3055""",""" seafood cocktail sauce """,49.33333333333333
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""3397""",""" taco sauce """,28.46153846153846
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""3490""",""" canned tomato sauce, no salt added """,30.833333333333332
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4086""",""" russian salad dressing """,49.33333333333333
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4087""",""" lowcal russian salad dressing """,49.33333333333333
+"""1195""","""Molded Crabmeat Mousse""","""309""",""" bottled seafood sauce """,40.0,"""4172""",""" hollandaisse sauce """,44.848484848484844
+"""1376""","""Onion-Beer Tri-Tip Roast""","""4470""",""" beef tri-tip roast """,455.0,"""155""",""" bean curd """,382.10810810810796
+"""1376""","""Onion-Beer Tri-Tip Roast""","""4470""",""" beef tri-tip roast """,455.0,"""1244""",""" firm tofu """,385.581818181818

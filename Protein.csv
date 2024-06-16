@@ -1,4 +1,4 @@
-﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quatity,subsitute_food_id,substitute_food_name,substitute_food_quantity
+﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quantity,subsitute_food_id,substitute_food_name,substitute_food_quantity
 """600""","""Sweet and Sour Cherry Ham Salad""","""1734""",""" ham """,45.0,"""1244""",""" firm tofu """,57.97522750252781
 """600""","""Sweet and Sour Cherry Ham Salad""","""1734""",""" ham """,45.0,"""3478""",""" tofu or bean curd """,34.75
 """600""","""Sweet and Sour Cherry Ham Salad""","""1734""",""" ham """,45.0,"""4151""",""" cheese enchilada """,49.00641025641026
