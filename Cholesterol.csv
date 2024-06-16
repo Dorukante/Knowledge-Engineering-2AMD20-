@@ -1,84 +1,32 @@
-﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quatity,subsitude_food_id,substitude_food_name,substitude_food_quantity
+﻿recipe_id,recipe_name,replaced_food_id,replaced_food_name,replaced_food_quatity,subsitute_food_id,substitute_food_name,substitute_food_quantity
 """523""","""Quick Spanish Rice""","""4228""",""" lean ground lamb """,75.83333333333333,"""4152""",""" taco """,88.42105263157899
-"""520""","""Lamb Stew Provencal""","""166""",""" beef broth """,20.0,"""4091""",""" cond. black bean soup """,18.124999999999993
-"""520""","""Lamb Stew Provencal""","""166""",""" beef broth """,20.0,"""4114""",""" cond. tomato rice soup """,18.124999999999993
 """531""","""Lamb Tortellini Minestrone""","""4228""",""" lean ground lamb """,56.875,"""4151""",""" cheese enchilada """,44.29573170731707
 """539""","""California Beef and Black Bean Chili""","""264""",""" beef top round """,75.83333333333333,"""4152""",""" taco """,61.51315789473682
 """548""","""Soft Taco""","""262""",""" boneless beef sirloin """,58.0,"""4152""",""" taco """,64.73684210526315
-"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320.0,"""311""",""" bouillon cube """,371.875
-"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320.0,"""346""",""" broth or low-sodium bouillon """,371.875
-"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320.0,"""4108""",""" cond. onion soup """,322.29166666666674
-"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320.0,"""4109""",""" cond. cream of onion soup """,402.86458333333337
-"""557""","""Meatball-Rice Soup""","""166""",""" beef broth """,320.0,"""4119""",""" tomato bisque soup """,371.875
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""311""",""" bouillon cube """,132.69230769230768
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""346""",""" broth or low-sodium bouillon """,132.69230769230768
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""451""",""" canned cream of celery soup """,156.8181818181818
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""4108""",""" cond. onion soup """,115.00000000000001
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""4109""",""" cond. cream of onion soup """,143.75
-"""562""","""Rigatoni in Wild Mushroom Broth""","""660""",""" chicken stock """,160.0,"""4119""",""" tomato bisque soup """,132.69230769230768
 """565""","""Sweet Potato-Sausage Casserole""","""2007""",""" lean sausage meat """,75.83333333333333,"""4152""",""" taco """,74.73684210526318
 """569""","""Strawberry-Pork Salad""","""2710""",""" pork tenderloin """,56.875,"""4149""",""" cheese and bean burrito """,56.09999999999998
-"""570""","""Italian Brunch Rice""","""3365""",""" sweet Italian sausage """,28.4375,"""4151""",""" cheese enchilada """,21.753048780487813
-"""578""","""Hot Hoppin' John Salad""","""112""",""" bacon """,5.0,"""1102""",""" dried shrimp """,3.6
-"""581""","""Mock Enchilada Casserole""","""1998""",""" lean ground beef """,37.916666666666664,"""4151""",""" cheese enchilada """,32.195121951219505
-"""583""","""Ham and Bean Soup""","""3226""",""" smoked ham hock """,113.75,"""4151""",""" cheese enchilada """,108.29268292682924
 """586""","""Lima Beans and Ham""","""268""",""" boneless ham """,56.875,"""4152""",""" taco """,46.97368421052629
-"""589""","""Mixed Bean Casserole""","""1734""",""" ham """,56.875,"""4151""",""" cheese enchilada """,62.95934959349593
-"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4090""",""" cond. cream of asparagus soup """,207.5
-"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4094""",""" cond. cheese soup """,177.85714285714286
-"""591""","""Bean Soup Romana""","""166""",""" beef broth """,236.5,"""4113""",""" cond. cream of potato soup """,249.0
 """603""",""" Hearty Roast Beef, Pear and Pea Pod Salad ""","""2794""",""" roast beef """,72.5,"""4149""",""" cheese and bean burrito """,86.99999999999991
 """605""","""Tandoori Pork Saute""","""2005""",""" lean pork """,58.0,"""4149""",""" cheese and bean burrito """,59.99999999999981
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""311""",""" bouillon cube """,39.99999999999999
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""346""",""" broth or low-sodium bouillon """,39.99999999999999
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""451""",""" canned cream of celery soup """,47.272727272727266
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""4108""",""" cond. onion soup """,34.66666666666667
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""4109""",""" cond. cream of onion soup """,43.33333333333333
-"""615""","""Moroccan Egg Salad""","""789""",""" condensed chicken broth """,48.333333333333336,"""4119""",""" tomato bisque soup """,39.99999999999999
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""311""",""" bouillon cube """,57.692307692307686
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""346""",""" broth or low-sodium bouillon """,57.692307692307686
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""451""",""" canned cream of celery soup """,68.18181818181817
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""4108""",""" cond. onion soup """,50.0
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""4109""",""" cond. cream of onion soup """,62.49999999999999
-"""666""","""Saffron Risotto Primavera""","""1215""",""" fat-free chicken broth """,60.0,"""4119""",""" tomato bisque soup """,57.692307692307686
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""311""",""" bouillon cube """,61.73076923076922
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""346""",""" broth or low-sodium bouillon """,61.73076923076922
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""451""",""" canned cream of celery soup """,72.95454545454544
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""4108""",""" cond. onion soup """,53.5
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""4109""",""" cond. cream of onion soup """,66.87499999999999
-"""704""","""Hazelnut Medley""","""638""",""" chicken broth """,60.0,"""4119""",""" tomato bisque soup """,61.73076923076922
-"""711""","""Sicilian Deep Dish Pizza""","""3008""",""" salami """,9.666666666666666,"""1102""",""" dried shrimp """,7.531944444444445
-"""711""","""Sicilian Deep Dish Pizza""","""3008""",""" salami """,9.666666666666666,"""1103""",""" dried shrimp powder """,7.173280423280424
 """1034""","""Chicken and Rice Casserole with Summer Vegetables""","""632""",""" chicken breast """,75.83333333333333,"""4149""",""" cheese and bean burrito """,69.0625000000002
 """1035""","""Turkey Spaghetti Pie""","""851""",""" cooked turkey """,120.0,"""4152""",""" taco """,114.48815789473677
-"""1040""","""Idaho Potato Supreme""","""3538""",""" turkey ham """,60.0,"""4151""",""" cheese enchilada """,45.36585365853658
 """1041""","""Stir-Fry Turkey Italiano""","""3528""",""" turkey breast cutlet """,113.75,"""4149""",""" cheese and bean burrito """,97.50000000000001
 """1049""","""Turkey Parmigiana""","""3528""",""" turkey breast cutlet """,113.75,"""4152""",""" taco """,142.1315789473684
 """1053""","""Chicken Parmiagiana Spud""","""804""",""" cooked chicken """,180.0,"""4152""",""" taco """,141.7368421052632
-"""1057""","""Jambalaya""","""632""",""" chicken breast """,85.3125,"""4151""",""" cheese enchilada """,68.16310975609757
 """1068""","""Turkey Tetrazzini""","""851""",""" cooked turkey """,120.0,"""4152""",""" taco """,86.84210526315782
 """1069""","""Easy Skillet Chicken""","""282""",""" skinless boneless chicken breast """,87.5,"""4152""",""" taco """,85.53947368421046
-"""1073""","""Barbecued Chicken on a Bun""","""632""",""" chicken breast """,87.5,"""4151""",""" cheese enchilada """,99.73170731707314
 """1076""","""Pistachio Turkey Taco Salad""","""852""",""" cooked turkey breast """,113.75,"""4152""",""" taco """,82.48157894736845
 """1079""","""Oriental Stir-Fry""","""282""",""" skinless boneless chicken breast """,75.83333333333333,"""4152""",""" taco """,71.2280701754386
 """1082""","""Chicken Pocket Sandwich""","""804""",""" cooked chicken """,29.0,"""4149""",""" cheese and bean burrito """,24.727499999999903
 """1083""","""Turkey Rolls Italian Style""","""3533""",""" turkey cutlet """,113.75,"""4152""",""" taco """,109.89473684210523
 """1084""","""Sonoma Turkey Risotto""","""3239""",""" smoked turkey breast """,75.83333333333333,"""4152""",""" taco """,66.84210526315788
-"""1087""","""Turkey Topper""","""851""",""" cooked turkey """,85.3125,"""4151""",""" cheese enchilada """,107.01219512195121
 """1090""","""Turkey Waldorf Sandwich""","""851""",""" cooked turkey """,60.0,"""4149""",""" cheese and bean burrito """,42.18749999999986
 """1097""","""Dilly Turkey Stuffed Tomatoes""","""851""",""" cooked turkey """,80.0,"""4149""",""" cheese and bean burrito """,59.99999999999998
-"""1099""","""Sonoma Turkey Bouillabaisse""","""3240""",""" smoked turkey sausage """,28.4375,"""1103""",""" dried shrimp powder """,35.388888888888886
 """1112""","""Turkey Tarragon Pitas""","""852""",""" cooked turkey breast """,120.0,"""4149""",""" cheese and bean burrito """,114.37499999999989
-"""1158""","""Seafood Pear Pasta""","""902""",""" crab meat """,43.5,"""4151""",""" cheese enchilada """,48.292682926829265
 """1125""","""Blue Crab Salad""","""239""",""" blue crabmeat """,87.0,"""4152""",""" taco """,66.3157894736842
 """1134""","""Bell Peppers Stuffed with Shrimp""","""844""",""" cooked shrimp """,80.0,"""4152""",""" taco """,100.26315789473689
-"""1143""","""Fish Florentine""","""1252""",""" fish fillet """,116.0,"""4151""",""" cheese enchilada """,100.24390243902438
-"""1144""","""Fish Chowder""","""112""",""" bacon """,28.4375,"""1102""",""" dried shrimp """,22.261458333333334
-"""1144""","""Fish Chowder""","""112""",""" bacon """,28.4375,"""1103""",""" dried shrimp powder """,21.20138888888889
 """1144""","""Fish Chowder""","""3693""",""" white or light fish """,227.5,"""4152""",""" taco """,170.1644736842107
-"""1147""","""Sheepshead Bay Sea Bass""","""3050""",""" sea bass steak """,151.66666666666666,"""4151""",""" cheese enchilada """,142.72357723577235
 """1148""","""Risotto""","""844""",""" cooked shrimp """,85.3125,"""4151""",""" cheese enchilada """,60.73170731707325
-"""1149""","""Summer Seafood Salad""","""902""",""" crab meat """,56.875,"""4152""",""" taco """,56.05263157894736
 """1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""1130""",""" dry instant espresso """,72.50000000000003
 """1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""1197""",""" espresso beans """,72.50000000000003
 """1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""2208""",""" Madeira """,62.14285714285716
@@ -89,20 +37,10 @@
 """1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""4462""",""" Kahlua """,72.50000000000003
 """1167""","""Spanish Clams and Rice""","""750""",""" clam broth """,80.0,"""4619""",""" chocolate-covered coffee bean """,66.92307692307693
 """1178""","""Quick Crawfish Jambalaya""","""918""",""" crawfish tails """,75.83333333333333,"""4152""",""" taco """,62.63157894736853
-"""1183""","""Crab Mousse""","""902""",""" crab meat """,22.75,"""4152""",""" taco """,20.298947368421054
 """1191""","""Basil Baked Cod Fillets""","""1245""",""" firm white fish """,113.75,"""4149""",""" cheese and bean burrito """,132.63750000000044
 """1192""","""Green and Gold Fettuccine""","""517""",""" canned salmon """,62.833333333333336,"""4149""",""" cheese and bean burrito """,72.49999999999999
-"""1195""","""Molded Crabmeat Mousse""","""902""",""" crab meat """,38.666666666666664,"""4152""",""" taco """,37.89473684210526
-"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200.0,"""311""",""" bouillon cube """,236.0
-"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200.0,"""346""",""" broth or low-sodium bouillon """,236.0
-"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200.0,"""4108""",""" cond. onion soup """,204.53333333333336
-"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200.0,"""4109""",""" cond. cream of onion soup """,255.66666666666669
-"""1196""","""Cracked Wheat and Seafood Casserole""","""660""",""" chicken stock """,200.0,"""4119""",""" tomato bisque soup """,236.0
-"""1199""","""Catfish and Wild Rice Soup""","""574""",""" catfish fillet """,151.66666666666666,"""4152""",""" taco """,196.84210526315783
 """1200""","""Halibut in Tarragon""","""1733""",""" halibut steaks or fillets """,113.75,"""4152""",""" taco """,120.39473684210522
 """1201""","""Fish and Tomato Zucchini Saffron Coulis""","""1379""",""" fresh or frozen fish fillet """,170.625,"""4149""",""" cheese and bean burrito """,187.49999999999997
 """1204""","""Broiled Baby Snapper""","""107""",""" baby snapper """,568.75,"""4149""",""" cheese and bean burrito """,535.0000000000007
 """1212""","""Grilled Halibut""","""1732""",""" halibut steak """,170.625,"""4152""",""" taco """,126.71052631578947
-"""1217""","""Catfish Pasta Primavera""","""574""",""" catfish fillet """,113.75,"""4151""",""" cheese enchilada """,103.15548780487805
-"""1219""","""Crab Linguine""","""902""",""" crab meat """,37.916666666666664,"""4151""",""" cheese enchilada """,39.26829268292684
 """1376""","""Onion-Beer Tri-Tip Roast""","""4470""",""" beef tri-tip roast """,455.0,"""4149""",""" cheese and bean burrito """,401.2500000000016
