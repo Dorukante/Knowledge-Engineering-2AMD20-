@@ -21,4 +21,10 @@ To run the knowledge graph:
 
 1. Download the neo4j.dump into local computer
 2. Upload neo4j.dump to the neo4j app
-3. Run app.py (?)
+3. Then upload the neo4.dumb to a local database
+4. Run the database.
+
+To wiew the results:
+1. The results can be viewed as csv files or from the dashboard. 
+2. To view them as a csv file go to the results directory
+3. To view the results from the dashboard, run app.py 
