@@ -17,4 +17,8 @@ The following files are needed to run the visualization tool:
 5. scripts.js
 6. app.py
 
-To run the knowledge graph, download the neo4j.dump into local computer and upload it to the neo4j app.
+To run the knowledge graph:
+
+1. Download the neo4j.dump into local computer
+2. Upload neo4j.dump to the neo4j app
+3. Run app.py (?)
